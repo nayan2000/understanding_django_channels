@@ -6,5 +6,5 @@ Here I'm gonna list down the ideas I have on my mind for extending this project.
 4) Add functionality of sharing files (audios, videos, docs, etc).
 5) Add follower/following feature.
 6) Notifications tab where user is told about activity of the users he/she follows.
-7) Categorising chat rooms by catgeories and allowing user to follow hasttags under categories.
-Based on these hastags, suggesting user good chat rooms to join.
+7) Categorising chat rooms by catgeories and allowing user to follow hashtags under categories.
+   Based on these hashtags, suggesting user good chat rooms to join.
