@@ -40,6 +40,9 @@ INSTALLED_APPS = [
 
     # add channels 
     'channels',
+
+    #own apps
+    'chat',
 ]
 
 MIDDLEWARE = [
