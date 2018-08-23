@@ -15,12 +15,7 @@ Including another URLconf
 """
 from django.conf.urls import url
 from django.contrib import admin
-from channels.routing import ProtocolTypeRouter
 
 urlpatterns = [
     url(r'^admin/', admin.site.urls),
 ]
-
-application = ProtocolTypeRouter({
-    #Empty for now (http-> django views is added by default)
-})
