@@ -5,7 +5,7 @@ from django.conf.urls import url
 from . import consumers
 
 websocket_urlpatterns = [
-    url(r'^ws/chat/(?P<room_name>[^/]+)/$', cosnumers.ChatConsumer),
+    url(r'^ws/chat/(?P<room_name>[^/]+)/$', consumers.ChatConsumer),
 ]
 
 '''This file is analogous to urls.py of django.
