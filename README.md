@@ -1,4 +1,5 @@
 # understanding_django_channels
+
 Working around and trying django channels.
 
 Here's a chat room that consists of two pages.
